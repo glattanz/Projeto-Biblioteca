@@ -1,0 +1,12 @@
+br\edu\femass\model\Leitor.class
+br\edu\femass\dao\DaoAutor$1.class
+br\edu\femass\model\Autor.class
+br\edu\femass\dao\Dao.class
+br\edu\femass\model\Aluno.class
+App.class
+br\edu\femass\dao\DaoAutor.class
+br\edu\femass\model\Emprestimo.class
+br\edu\femass\model\Exemplar.class
+br\edu\femass\model\Livro.class
+br\edu\femass\dao\Persistence.class
+br\edu\femass\model\Professor.class

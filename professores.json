@@ -1,0 +1,43 @@
+[ {
+  "codigo" : 1,
+  "nome" : "Isac",
+  "endereco" : "Rua I",
+  "telefone" : "2288999933",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Projeto de Sistemas II"
+}, {
+  "codigo" : 2,
+  "nome" : "Ireneu",
+  "endereco" : "Rua I",
+  "telefone" : "2233445566",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Estrutura de Dados II"
+}, {
+  "codigo" : 3,
+  "nome" : "Afonso",
+  "endereco" : "Rua A",
+  "telefone" : "2288997766",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Qualidade de Software"
+}, {
+  "codigo" : 4,
+  "nome" : "Alan",
+  "endereco" : "Rua A",
+  "telefone" : "2225566633",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Prog III"
+}, {
+  "codigo" : 5,
+  "nome" : "Anselmo",
+  "endereco" : "Rua A",
+  "telefone" : "22889955663",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Pesquisa Operacional"
+}, {
+  "codigo" : 6,
+  "nome" : "Luciano",
+  "endereco" : "Rua L",
+  "telefone" : "22998665533",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Banco de Dados I"
+} ]

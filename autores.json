@@ -1,0 +1,37 @@
+[ {
+  "nome" : "Jorge",
+  "sobrenome" : "Amado",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Machado",
+  "sobrenome" : "de Asis",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "J. K.",
+  "sobrenome" : "Rowling",
+  "nacionalidade" : "Britânico"
+}, {
+  "nome" : "J. R. R.",
+  "sobrenome" : "Tolkien",
+  "nacionalidade" : "Britânico"
+}, {
+  "nome" : "Oscar",
+  "sobrenome" : "Wilde",
+  "nacionalidade" : "Irlandês"
+}, {
+  "nome" : "José",
+  "sobrenome" : "Alencar",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "David",
+  "sobrenome" : "Lewman",
+  "nacionalidade" : "Estadunidense"
+}, {
+  "nome" : "Carl",
+  "sobrenome" : "Sagan",
+  "nacionalidade" : "Estadunidense"
+}, {
+  "nome" : "Toshikazu",
+  "sobrenome" : "Kawaguchi",
+  "nacionalidade" : "Japonês"
+} ]

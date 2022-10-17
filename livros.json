@@ -1,0 +1,241 @@
+[ {
+  "codigo" : 1,
+  "titulo" : "Iracema",
+  "ano" : 1865,
+  "listaAutores" : [ {
+    "nome" : "José",
+    "sobrenome" : "Alencar",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 2,
+  "titulo" : "Capitães da Areia",
+  "ano" : 1937,
+  "listaAutores" : [ {
+    "nome" : "Jorge",
+    "sobrenome" : "Amado",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 3,
+  "titulo" : "Gabriela, Cravo e Canela",
+  "ano" : 1958,
+  "listaAutores" : [ {
+    "nome" : "Jorge",
+    "sobrenome" : "Amado",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 4,
+  "titulo" : "Dona Flor e Seus Dois Maridos",
+  "ano" : 1966,
+  "listaAutores" : [ {
+    "nome" : "Jorge",
+    "sobrenome" : "Amado",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 5,
+  "titulo" : "Dom Casmurro",
+  "ano" : 1899,
+  "listaAutores" : [ {
+    "nome" : "Machado",
+    "sobrenome" : "de Asis",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 6,
+  "titulo" : "Memória Póstumas de Brás Cubas",
+  "ano" : 1881,
+  "listaAutores" : [ {
+    "nome" : "Machado",
+    "sobrenome" : "de Asis",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 7,
+  "titulo" : "O Alienista",
+  "ano" : 1882,
+  "listaAutores" : [ {
+    "nome" : "Machado",
+    "sobrenome" : "de Asis",
+    "nacionalidade" : "Brasileiro"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 8,
+  "titulo" : "A Pedra Filosofal",
+  "ano" : 1997,
+  "listaAutores" : [ {
+    "nome" : "J. K.",
+    "sobrenome" : "Rowling",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 9,
+  "titulo" : "As Relíquias da Morte",
+  "ano" : 2007,
+  "listaAutores" : [ {
+    "nome" : "J. K.",
+    "sobrenome" : "Rowling",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : true,
+    "tituloExemplar" : "As Relíquias da Morte"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : true,
+    "tituloExemplar" : "As Relíquias da Morte"
+  } ]
+}, {
+  "codigo" : 10,
+  "titulo" : "O Prisioneiro de Azkaban",
+  "ano" : 1999,
+  "listaAutores" : [ {
+    "nome" : "J. K.",
+    "sobrenome" : "Rowling",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "O Prisioneiro de Azkaban"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "O Prisioneiro de Azkaban"
+  } ]
+}, {
+  "codigo" : 11,
+  "titulo" : "Cálice de Fogo",
+  "ano" : 2000,
+  "listaAutores" : [ {
+    "nome" : "J. K.",
+    "sobrenome" : "Rowling",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 12,
+  "titulo" : "O Hobbit",
+  "ano" : 1937,
+  "listaAutores" : [ {
+    "nome" : "J. R. R.",
+    "sobrenome" : "Tolkien",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "O Hobbit"
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "O Hobbit"
+  } ]
+}, {
+  "codigo" : 13,
+  "titulo" : "A Sociedade do Anel",
+  "ano" : 1954,
+  "listaAutores" : [ {
+    "nome" : "J. R. R.",
+    "sobrenome" : "Tolkien",
+    "nacionalidade" : "Britânico"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "A Sociedade do Anel"
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "A Sociedade do Anel"
+  } ]
+}, {
+  "codigo" : 14,
+  "titulo" : "O Retrato de Dorian Gray",
+  "ano" : 1890,
+  "listaAutores" : [ {
+    "nome" : "Oscar",
+    "sobrenome" : "Wilde",
+    "nacionalidade" : "Irlandês"
+  } ],
+  "listaExemplares" : [ ]
+}, {
+  "codigo" : 15,
+  "titulo" : "Bob Esponja: O incrível resgate",
+  "ano" : 2022,
+  "listaAutores" : [ {
+    "nome" : "David",
+    "sobrenome" : "Lewman",
+    "nacionalidade" : "Estadunidense"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  }, {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  } ]
+}, {
+  "codigo" : 16,
+  "titulo" : "Cosmos",
+  "ano" : 1980,
+  "listaAutores" : [ {
+    "nome" : "Carl",
+    "sobrenome" : "Sagan",
+    "nacionalidade" : "Estadunidense"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 16 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  } ]
+}, {
+  "codigo" : 17,
+  "titulo" : "Antes que o Café Esfrie",
+  "ano" : 2022,
+  "listaAutores" : [ {
+    "nome" : "Toshikazu",
+    "sobrenome" : "Kawaguchi",
+    "nacionalidade" : "Japonês"
+  } ],
+  "listaExemplares" : [ {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  } ]
+} ]
