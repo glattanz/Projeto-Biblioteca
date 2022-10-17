@@ -1,35 +1,30 @@
 [ {
   "codigo" : 1,
-  "dataAquisicao" : [ 2022, 10, 16 ],
-  "disponivel" : false,
-  "tituloExemplar" : "Cosmos"
+  "dataAquisicao" : [ 2022, 10, 17 ],
+  "disponivel" : true,
+  "tituloExemplar" : "Iracema"
 }, {
   "codigo" : 2,
-  "dataAquisicao" : [ 2022, 10, 16 ],
+  "dataAquisicao" : [ 2022, 10, 17 ],
   "disponivel" : true,
-  "tituloExemplar" : "As Relíquias da Morte"
+  "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
 }, {
   "codigo" : 3,
-  "dataAquisicao" : [ 2022, 10, 16 ],
+  "dataAquisicao" : [ 2022, 10, 17 ],
   "disponivel" : true,
-  "tituloExemplar" : "O Prisioneiro de Azkaban"
+  "tituloExemplar" : "A Pedra Filosofal"
 }, {
   "codigo" : 4,
-  "dataAquisicao" : [ 2022, 10, 16 ],
-  "disponivel" : true,
-  "tituloExemplar" : "A Sociedade do Anel"
-}, {
-  "codigo" : 5,
-  "dataAquisicao" : [ 2022, 10, 16 ],
-  "disponivel" : false,
-  "tituloExemplar" : "O Hobbit"
-}, {
-  "codigo" : 6,
   "dataAquisicao" : [ 2022, 10, 17 ],
   "disponivel" : false,
   "tituloExemplar" : "Antes que o Café Esfrie"
 }, {
-  "codigo" : 7,
+  "codigo" : 5,
+  "dataAquisicao" : [ 2022, 10, 17 ],
+  "disponivel" : false,
+  "tituloExemplar" : "Cosmos"
+}, {
+  "codigo" : 6,
   "dataAquisicao" : [ 2022, 10, 17 ],
   "disponivel" : false,
   "tituloExemplar" : "Bob Esponja: O incrível resgate"

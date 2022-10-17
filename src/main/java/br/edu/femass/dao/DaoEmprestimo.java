@@ -1,13 +1,9 @@
 package br.edu.femass.dao;
-
 import br.edu.femass.model.Emprestimo;
-import br.edu.femass.model.Livro;
 import com.fasterxml.jackson.core.type.TypeReference;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 

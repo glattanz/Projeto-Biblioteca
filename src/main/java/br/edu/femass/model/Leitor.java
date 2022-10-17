@@ -1,8 +1,6 @@
 package br.edu.femass.model;
-
 import br.edu.femass.dao.DaoAluno;
 import br.edu.femass.dao.DaoProfessor;
-
 import java.util.ArrayList;
 import java.util.List;
 

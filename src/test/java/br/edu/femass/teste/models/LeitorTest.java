@@ -1,10 +1,7 @@
 package br.edu.femass.teste.models;
-
 import br.edu.femass.model.Leitor;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class LeitorTest {
 

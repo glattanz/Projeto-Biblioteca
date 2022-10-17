@@ -1,8 +1,6 @@
 package br.edu.femass.gui.exemplar;
-import br.edu.femass.dao.DaoAluno;
 import br.edu.femass.dao.DaoExemplar;
 import br.edu.femass.dao.DaoLivro;
-import br.edu.femass.model.Aluno;
 import br.edu.femass.model.Exemplar;
 import br.edu.femass.model.Livro;
 import javax.swing.*;

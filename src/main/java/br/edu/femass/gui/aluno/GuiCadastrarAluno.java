@@ -1,23 +1,17 @@
 package br.edu.femass.gui.aluno;
-
 import br.edu.femass.dao.DaoAluno;
-import br.edu.femass.dao.DaoProfessor;
 import br.edu.femass.model.Aluno;
-import br.edu.femass.model.Leitor;
-import br.edu.femass.model.Professor;
-
 import javax.swing.*;
+import javax.swing.text.MaskFormatter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.ComponentAdapter;
-import java.awt.event.ComponentEvent;
-import java.util.ArrayList;
+import java.text.ParseException;
 import java.util.List;
 
 public class GuiCadastrarAluno {
     private JTextField campoNome;
     private JTextField campoMatricula;
-    private JTextField campoTelefone;
+    private JFormattedTextField campoTelefone;
     private JTextField campoEndereco;
     private JButton botaoSalvar;
     private JPanel jPanelCadastrarAluno;
@@ -28,6 +22,13 @@ public class GuiCadastrarAluno {
     }
 
     public GuiCadastrarAluno() {
+
+        try {
+            MaskFormatter mascara = new MaskFormatter("(##) ####-####");
+            mascara.install(campoTelefone);
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        }
 
         updateList();
 

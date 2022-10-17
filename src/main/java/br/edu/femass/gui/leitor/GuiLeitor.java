@@ -2,13 +2,9 @@ package br.edu.femass.gui.leitor;
 
 import br.edu.femass.gui.aluno.GuiCadastrarAluno;
 import br.edu.femass.gui.professor.GuiCadastrarProfessor;
-import br.edu.femass.model.Aluno;
-import br.edu.femass.model.Emprestimo;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.time.LocalDate;
 
 public class GuiLeitor {
 

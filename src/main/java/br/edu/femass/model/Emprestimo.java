@@ -2,7 +2,6 @@ package br.edu.femass.model;
 import br.edu.femass.dao.DaoEmprestimo;
 import br.edu.femass.dao.DaoExemplar;
 import br.edu.femass.dao.DaoLivro;
-
 import java.time.LocalDate;
 import java.util.List;
 
@@ -12,6 +11,7 @@ public class Emprestimo {
     private LocalDate dataPrevistaDevolucao;
     private LocalDate dataDevolucao = null;
     private Exemplar exemplar;
+//    private Livro livro;
     private String nomeEmprestimo;
 
     public Emprestimo(){
@@ -20,6 +20,7 @@ public class Emprestimo {
     public Emprestimo(Leitor leitor, Livro livro) throws Exception {
         this.dataEmprestimo = LocalDate.now();
         this.dataPrevistaDevolucao = LocalDate.now().plusDays(leitor.getPrazoMaximoDevolucao());
+//        this.livro = livro;
 
         List<Exemplar> exemplares = livro.getListaExemplares();
 
@@ -41,6 +42,7 @@ public class Emprestimo {
         this.exemplar.setDisponivel(true);
         new DaoEmprestimo().update(this);
         new DaoExemplar().update(this.exemplar);
+//        new DaoLivro().update(this.livro);
     }
 
     @Override

@@ -1,58 +1,14 @@
 [ {
-  "dataEmprestimo" : [ 2022, 8, 16 ],
-  "dataPrevistaDevolucao" : [ 2022, 9, 15 ],
-  "dataDevolucao" : null,
-  "exemplar" : {
-    "codigo" : 1,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "Cosmos"
-  },
-  "nomeEmprestimo" : "Cosmos - 1 - Isac"
-}, {
-  "dataEmprestimo" : [ 2022, 10, 16 ],
-  "dataPrevistaDevolucao" : [ 2022, 10, 31 ],
-  "dataDevolucao" : [ 2022, 10, 17 ],
-  "exemplar" : {
-    "codigo" : 4,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "A Sociedade do Anel"
-  },
-  "nomeEmprestimo" : "A Sociedade do Anel - 4 - Caio Lucas"
-}, {
-  "dataEmprestimo" : [ 2022, 10, 16 ],
-  "dataPrevistaDevolucao" : [ 2022, 10, 31 ],
-  "dataDevolucao" : null,
-  "exemplar" : {
-    "codigo" : 5,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Hobbit"
-  },
-  "nomeEmprestimo" : "O Hobbit - 5 - Gabriel Albuquerque"
-}, {
-  "dataEmprestimo" : [ 2022, 10, 16 ],
-  "dataPrevistaDevolucao" : [ 2022, 10, 31 ],
-  "dataDevolucao" : [ 2022, 10, 16 ],
-  "exemplar" : {
-    "codigo" : 3,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Prisioneiro de Azkaban"
-  },
-  "nomeEmprestimo" : "O Prisioneiro de Azkaban - 3 - Davi Trajano"
-}, {
   "dataEmprestimo" : [ 2022, 10, 17 ],
   "dataPrevistaDevolucao" : [ 2022, 11, 1 ],
   "dataDevolucao" : null,
   "exemplar" : {
-    "codigo" : 7,
+    "codigo" : 4,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
-    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+    "tituloExemplar" : "Antes que o Café Esfrie"
   },
-  "nomeEmprestimo" : "Bob Esponja: O incrível resgate - 7 - Caio Lucas"
+  "nomeEmprestimo" : "Antes que o Café Esfrie - 4 - Natassja Lessa"
 }, {
   "dataEmprestimo" : [ 2022, 10, 17 ],
   "dataPrevistaDevolucao" : [ 2022, 11, 1 ],
@@ -61,7 +17,29 @@
     "codigo" : 6,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
-    "tituloExemplar" : "Antes que o Café Esfrie"
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
   },
-  "nomeEmprestimo" : "Antes que o Café Esfrie - 6 - Natassja Lessa"
+  "nomeEmprestimo" : "Bob Esponja: O incrível resgate - 6 - Caio Lucas"
+}, {
+  "dataEmprestimo" : [ 2022, 9, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 16 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  },
+  "nomeEmprestimo" : "Cosmos - 5 - Isac"
+}, {
+  "dataEmprestimo" : [ 2022, 10, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 1 ],
+  "dataDevolucao" : [ 2022, 10, 17 ],
+  "exemplar" : {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
+  },
+  "nomeEmprestimo" : "Dona Flor e Seus Dois Maridos - 2 - Guilherme Rivas"
 } ]

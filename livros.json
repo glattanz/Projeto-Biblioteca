@@ -7,7 +7,37 @@
     "sobrenome" : "Alencar",
     "nacionalidade" : "Brasileiro"
   } ],
-  "listaExemplares" : [ ]
+  "listaExemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  }, {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "Iracema"
+  } ]
 }, {
   "codigo" : 2,
   "titulo" : "Capitães da Areia",
@@ -37,7 +67,27 @@
     "sobrenome" : "Amado",
     "nacionalidade" : "Brasileiro"
   } ],
-  "listaExemplares" : [ ]
+  "listaExemplares" : [ {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dona Flor e Seus Dois Maridos"
+  } ]
 }, {
   "codigo" : 5,
   "titulo" : "Dom Casmurro",
@@ -47,7 +97,17 @@
     "sobrenome" : "de Asis",
     "nacionalidade" : "Brasileiro"
   } ],
-  "listaExemplares" : [ ]
+  "listaExemplares" : [ {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dom Casmurro"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Dom Casmurro"
+  } ]
 }, {
   "codigo" : 6,
   "titulo" : "Memória Póstumas de Brás Cubas",
@@ -77,7 +137,27 @@
     "sobrenome" : "Rowling",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ ]
+  "listaExemplares" : [ {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "A Pedra Filosofal"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "A Pedra Filosofal"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "A Pedra Filosofal"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : true,
+    "tituloExemplar" : "A Pedra Filosofal"
+  } ]
 }, {
   "codigo" : 9,
   "titulo" : "As Relíquias da Morte",
@@ -87,17 +167,7 @@
     "sobrenome" : "Rowling",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ {
-    "codigo" : 2,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : true,
-    "tituloExemplar" : "As Relíquias da Morte"
-  }, {
-    "codigo" : 2,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : true,
-    "tituloExemplar" : "As Relíquias da Morte"
-  } ]
+  "listaExemplares" : [ ]
 }, {
   "codigo" : 10,
   "titulo" : "O Prisioneiro de Azkaban",
@@ -107,17 +177,7 @@
     "sobrenome" : "Rowling",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ {
-    "codigo" : 3,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Prisioneiro de Azkaban"
-  }, {
-    "codigo" : 3,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Prisioneiro de Azkaban"
-  } ]
+  "listaExemplares" : [ ]
 }, {
   "codigo" : 11,
   "titulo" : "Cálice de Fogo",
@@ -127,7 +187,17 @@
     "sobrenome" : "Rowling",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ ]
+  "listaExemplares" : [ {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cálice de Fogo"
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cálice de Fogo"
+  } ]
 }, {
   "codigo" : 12,
   "titulo" : "O Hobbit",
@@ -137,17 +207,7 @@
     "sobrenome" : "Tolkien",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ {
-    "codigo" : 5,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Hobbit"
-  }, {
-    "codigo" : 5,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "O Hobbit"
-  } ]
+  "listaExemplares" : [ ]
 }, {
   "codigo" : 13,
   "titulo" : "A Sociedade do Anel",
@@ -157,17 +217,7 @@
     "sobrenome" : "Tolkien",
     "nacionalidade" : "Britânico"
   } ],
-  "listaExemplares" : [ {
-    "codigo" : 4,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "A Sociedade do Anel"
-  }, {
-    "codigo" : 4,
-    "dataAquisicao" : [ 2022, 10, 16 ],
-    "disponivel" : false,
-    "tituloExemplar" : "A Sociedade do Anel"
-  } ]
+  "listaExemplares" : [ ]
 }, {
   "codigo" : 14,
   "titulo" : "O Retrato de Dorian Gray",
@@ -188,12 +238,32 @@
     "nacionalidade" : "Estadunidense"
   } ],
   "listaExemplares" : [ {
-    "codigo" : 7,
+    "codigo" : 6,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Bob Esponja: O incrível resgate"
   }, {
-    "codigo" : 7,
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Bob Esponja: O incrível resgate"
+  }, {
+    "codigo" : 6,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Bob Esponja: O incrível resgate"
@@ -208,13 +278,33 @@
     "nacionalidade" : "Estadunidense"
   } ],
   "listaExemplares" : [ {
-    "codigo" : 1,
-    "dataAquisicao" : [ 2022, 10, 16 ],
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Cosmos"
   }, {
-    "codigo" : 1,
-    "dataAquisicao" : [ 2022, 10, 16 ],
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Cosmos"
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Cosmos"
   } ]
@@ -228,12 +318,32 @@
     "nacionalidade" : "Japonês"
   } ],
   "listaExemplares" : [ {
-    "codigo" : 6,
+    "codigo" : 5,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Antes que o Café Esfrie"
   }, {
-    "codigo" : 6,
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "disponivel" : false,
+    "tituloExemplar" : "Antes que o Café Esfrie"
+  }, {
+    "codigo" : 4,
     "dataAquisicao" : [ 2022, 10, 17 ],
     "disponivel" : false,
     "tituloExemplar" : "Antes que o Café Esfrie"

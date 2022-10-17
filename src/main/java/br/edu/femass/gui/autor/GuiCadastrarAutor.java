@@ -1,6 +1,5 @@
 package br.edu.femass.gui.autor;
 import br.edu.femass.dao.DaoAutor;
-import br.edu.femass.gui.livro.GuiCadastrarLivro;
 import br.edu.femass.model.Autor;
 import javax.swing.*;
 import java.awt.event.ActionEvent;

@@ -2,10 +2,11 @@ package br.edu.femass.gui.professor;
 
 import br.edu.femass.dao.DaoProfessor;
 import br.edu.femass.model.Professor;
-
 import javax.swing.*;
+import javax.swing.text.MaskFormatter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.text.ParseException;
 import java.util.List;
 
 public class GuiCadastrarProfessor {
@@ -13,7 +14,7 @@ public class GuiCadastrarProfessor {
     private JTextField campoNome;
     private JTextField campoEndereco;
     private JButton salvarButton;
-    private JTextField campoTelefone;
+    private JFormattedTextField campoTelefone;
     private JTextField campoDisciplina;
     private JList listaProfessores;
 
@@ -22,6 +23,13 @@ public class GuiCadastrarProfessor {
     }
 
     public GuiCadastrarProfessor() {
+
+        try {
+            MaskFormatter mascara = new MaskFormatter("(##) ####-####");
+            mascara.install(campoTelefone);
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        }
 
         updateList();
 

@@ -1,5 +1,4 @@
 package br.edu.femass.dao;
-
 import java.util.List;
 
 public interface Dao<T> {

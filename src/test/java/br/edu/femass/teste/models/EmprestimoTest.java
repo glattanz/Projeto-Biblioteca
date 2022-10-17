@@ -1,16 +1,10 @@
 package br.edu.femass.teste.models;
-
-import br.edu.femass.dao.DaoExemplar;
 import br.edu.femass.model.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class EmprestimoTest {
 

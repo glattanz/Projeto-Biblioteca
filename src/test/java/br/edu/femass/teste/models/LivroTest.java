@@ -8,6 +8,19 @@ import java.util.List;
 class LivroTest {
 
     @Test
+    void criarLivroSemAutor() throws Exception {
+
+        List<Autor> listaAutores = new ArrayList<>();
+        Livro livro = new Livro("Título", listaAutores, 2000);
+
+        String tituloEsperado = "Título";
+        boolean listaAutorEsperado = true;
+
+        Assertions.assertEquals(tituloEsperado, livro.getTitulo());
+        Assertions.assertEquals(listaAutorEsperado, livro.getListaAutores().isEmpty());
+    }
+
+    @Test
     void criarLivroUmAutor() throws Exception {
 
         Autor autor = new Autor("Nome", "Sobrenome", "Nacionalidade");
@@ -19,11 +32,13 @@ class LivroTest {
         String nomeAutorEsperado = "Nome";
         String sobrenomeAutorEsperado = "Sobrenome";
         String nacionalidadeAutorEsperado = "Nacionalidade";
+        int anoEsperado = 2000;
 
         Assertions.assertEquals(tituloEsperado, livro.getTitulo());
         Assertions.assertEquals(nomeAutorEsperado, livro.getListaAutores().get(0).getNome());
         Assertions.assertEquals(sobrenomeAutorEsperado, livro.getListaAutores().get(0).getSobrenome());
         Assertions.assertEquals(nacionalidadeAutorEsperado, livro.getListaAutores().get(0).getNacionalidade());
+        Assertions.assertEquals(anoEsperado, livro.getAno());
 
     }
 

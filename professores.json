@@ -1,43 +1,43 @@
 [ {
-  "codigo" : 1,
+  "codigo" : 10,
   "nome" : "Isac",
   "endereco" : "Rua I",
-  "telefone" : "2288999933",
+  "telefone" : "228.899.993-3 ",
   "prazoMaximoDevolucao" : 30,
   "disciplina" : "Projeto de Sistemas II"
 }, {
-  "codigo" : 2,
-  "nome" : "Ireneu",
+  "codigo" : 11,
+  "nome" : "Irineu",
   "endereco" : "Rua I",
-  "telefone" : "2233445566",
+  "telefone" : "(22) 3344-5566",
   "prazoMaximoDevolucao" : 30,
   "disciplina" : "Estrutura de Dados II"
 }, {
-  "codigo" : 3,
+  "codigo" : 12,
   "nome" : "Afonso",
   "endereco" : "Rua A",
-  "telefone" : "2288997766",
+  "telefone" : "(22) 8899-7766",
   "prazoMaximoDevolucao" : 30,
   "disciplina" : "Qualidade de Software"
 }, {
-  "codigo" : 4,
+  "codigo" : 13,
   "nome" : "Alan",
   "endereco" : "Rua A",
-  "telefone" : "2225566633",
+  "telefone" : "(22) 2556-6633",
   "prazoMaximoDevolucao" : 30,
   "disciplina" : "Prog III"
 }, {
-  "codigo" : 5,
+  "codigo" : 14,
   "nome" : "Anselmo",
-  "endereco" : "Rua A",
-  "telefone" : "22889955663",
+  "endereco" : "Pesquisa Operacional",
+  "telefone" : "(22) 8899-5566",
   "prazoMaximoDevolucao" : 30,
-  "disciplina" : "Pesquisa Operacional"
+  "disciplina" : "Prog III"
 }, {
-  "codigo" : 6,
-  "nome" : "Luciano",
+  "codigo" : 15,
+  "nome" : "Luciano Mangueira",
   "endereco" : "Rua L",
-  "telefone" : "22998665533",
+  "telefone" : "(22) 9986-6553",
   "prazoMaximoDevolucao" : 30,
   "disciplina" : "Banco de Dados I"
 } ]
